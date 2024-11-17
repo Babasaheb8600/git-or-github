@@ -8,3 +8,5 @@ area = math.pi * radius ** 2
 
 # Display the result
 print(f"The area of the circle with radius {radius} is {area:.2f}")
+
+print("Hello Baba")
